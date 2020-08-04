@@ -1,0 +1,9 @@
+{
+  "name": "fetch-debug",
+  "version": "0.0.1",
+  "description": "Outputs to console fetch requests/responses",
+  "main": "fetch-debug.js",
+  "repository": "https://github.com/hagent/fetch-debug",
+  "author": "AT",
+  "license": "MIT"
+}
